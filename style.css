@@ -8,7 +8,7 @@
 }
 nav{
     display: flex;
-    padding: 0 15%;
+    padding: 0 5%;
     height: 85px;
     background: darkcyan;
     justify-content: space-between;
